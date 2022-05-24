@@ -1,4 +1,4 @@
-### Shortest-Path-Project
+### Shortest Path Project
 
 In this assignment, we will implement two distinct algorithms for computing the shortest paths between all possible pairs of nodes in a graph
 
